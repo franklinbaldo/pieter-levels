@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "cron": "0 9 * * 1",
-    "hint": "Research what's working in indie monetization this week (check ProductHunt, IndieHackers, X). Compare with Franklin's existing infrastructure. Produce a ranked list of monetization opportunities by effort×return. Commit report to reports/ directory."
+    "cron": "0 8 * * *",
+    "hint": "Daily monetization scan. First: read franklinbaldo/franklin-avatar (SOUL.md, projects/, USER.md) to understand what Franklin has built. Then analyze active repos for new monetization opportunities. Update reports/latest.md with today's findings and any new opportunities discovered. Focus on what changed or what's new since yesterday."
   }
 }
