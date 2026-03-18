@@ -1,0 +1,6 @@
+{
+  "schedule": {
+    "cron": "0 9 * * 1",
+    "hint": "Research what's working in indie monetization this week (check ProductHunt, IndieHackers, X). Compare with Franklin's existing infrastructure. Produce a ranked list of monetization opportunities by effort×return. Commit report to reports/ directory."
+  }
+}
